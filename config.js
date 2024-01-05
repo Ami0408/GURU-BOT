@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+itimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -8,11 +8,11 @@ import axios from 'axios'
 
 global.owner =
   ['09131388324', 'Amiola's bot', true],
-  ['6281255369012', 'Ash', true], 
+  ['0813131388324', 'Ami', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "09131388324" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
